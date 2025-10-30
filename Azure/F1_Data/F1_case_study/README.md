@@ -81,6 +81,11 @@ JSON -> Read Data-> Transform the Data -> Write Data -> Parquet
          url                            drop url
                                         Ingestion date
 
+# Input Data:
+
+<img width="1723" height="675" alt="image" src="https://github.com/user-attachments/assets/d000c23d-faf4-466d-858f-b5bcc5ca85be" />
+
+
 
 # Final Output Table:
 

@@ -1,3 +1,4 @@
 # Project Architechture
 
-<img width="875" height="559" alt="image" src="https://github.com/user-attachments/assets/45810266-596e-407c-abe1-1148c38cea0f" />
+<img width="869" height="540" alt="image" src="https://github.com/user-attachments/assets/b5c5397a-3650-41db-9be6-217e19fc5c6b" />
+

@@ -82,4 +82,11 @@ JSON -> Read Data-> Transform the Data -> Write Data -> Parquet
                                         Ingestion date
 
 
+# Final Output Table:
+
+
+<img width="1141" height="663" alt="image" src="https://github.com/user-attachments/assets/91468bbc-84cb-457e-bce3-a8c71290922a" />
+
+
+
 
